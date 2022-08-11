@@ -10,7 +10,7 @@ import org.jabref.model.entry.BibEntryType;
 
 public class EntryTypeFactory {
 
-    private EntryTypeFactory() {
+    public EntryTypeFactory() {
     }
 
     /**
